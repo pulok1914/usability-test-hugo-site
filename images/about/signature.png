@@ -1,0 +1,4 @@
+image_file: /images/about/signature.png
+_inputs:
+  image_file:
+    type: image
